@@ -1,4 +1,4 @@
-# IBM-Data-Science-
+# IBM-Data-Science-Cousera
 
 ## IBM Data Science Capstone Project
 
